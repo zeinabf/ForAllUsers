@@ -1,0 +1,452 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\14030706\\ServicesProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6C7078-5F28-4008-ACE3-3F4BA7956E7B}|MonitoringSystem.EndpointAPI\\MonitoringSystem.EndpointAPI.csproj|e:\\14030706\\servicesproject\\monitoringsystem.endpointapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7E6C7078-5F28-4008-ACE3-3F4BA7956E7B}|MonitoringSystem.EndpointAPI\\MonitoringSystem.EndpointAPI.csproj|solutionrelative:monitoringsystem.endpointapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72381493-C9C0-4A64-A889-BD6CAB3FBD5A}|AuthenticationService\\AuthenticationService.csproj|e:\\14030706\\servicesproject\\authenticationservice\\migrations\\securitycontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72381493-C9C0-4A64-A889-BD6CAB3FBD5A}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\migrations\\securitycontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5107B948-ABD0-4F4D-AAA9-1D70EAFF30AF}|DiscoveryService\\DiscoveryService.csproj|e:\\14030706\\servicesproject\\discoveryservice\\02-discoveryservice-applicationlayer\\rls\\rlsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5107B948-ABD0-4F4D-AAA9-1D70EAFF30AF}|DiscoveryService\\DiscoveryService.csproj|solutionrelative:discoveryservice\\02-discoveryservice-applicationlayer\\rls\\rlsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C65942D3-E98B-4DB3-B32D-7C4CD65D2C77}|ConsistencyService\\ConsistencyService.csproj|e:\\14030706\\servicesproject\\consistencyservice\\04-consistencyservice-presentation\\operationendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C65942D3-E98B-4DB3-B32D-7C4CD65D2C77}|ConsistencyService\\ConsistencyService.csproj|solutionrelative:consistencyservice\\04-consistencyservice-presentation\\operationendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C65942D3-E98B-4DB3-B32D-7C4CD65D2C77}|ConsistencyService\\ConsistencyService.csproj|e:\\14030706\\servicesproject\\consistencyservice\\02-consistencyservice-applicationlayer\\operation\\dto\\operationgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C65942D3-E98B-4DB3-B32D-7C4CD65D2C77}|ConsistencyService\\ConsistencyService.csproj|solutionrelative:consistencyservice\\02-consistencyservice-applicationlayer\\operation\\dto\\operationgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C65942D3-E98B-4DB3-B32D-7C4CD65D2C77}|ConsistencyService\\ConsistencyService.csproj|e:\\14030706\\servicesproject\\consistencyservice\\02-consistencyservice-applicationlayer\\operation\\dto\\operationcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C65942D3-E98B-4DB3-B32D-7C4CD65D2C77}|ConsistencyService\\ConsistencyService.csproj|solutionrelative:consistencyservice\\02-consistencyservice-applicationlayer\\operation\\dto\\operationcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C65942D3-E98B-4DB3-B32D-7C4CD65D2C77}|ConsistencyService\\ConsistencyService.csproj|e:\\14030706\\servicesproject\\consistencyservice\\04-consistencyservice-presentation\\ruleendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C65942D3-E98B-4DB3-B32D-7C4CD65D2C77}|ConsistencyService\\ConsistencyService.csproj|solutionrelative:consistencyservice\\04-consistencyservice-presentation\\ruleendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C65942D3-E98B-4DB3-B32D-7C4CD65D2C77}|ConsistencyService\\ConsistencyService.csproj|e:\\14030706\\servicesproject\\consistencyservice\\04-consistencyservice-presentation\\resultendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C65942D3-E98B-4DB3-B32D-7C4CD65D2C77}|ConsistencyService\\ConsistencyService.csproj|solutionrelative:consistencyservice\\04-consistencyservice-presentation\\resultendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C65942D3-E98B-4DB3-B32D-7C4CD65D2C77}|ConsistencyService\\ConsistencyService.csproj|e:\\14030706\\servicesproject\\consistencyservice\\04-consistencyservice-presentation\\requestendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C65942D3-E98B-4DB3-B32D-7C4CD65D2C77}|ConsistencyService\\ConsistencyService.csproj|solutionrelative:consistencyservice\\04-consistencyservice-presentation\\requestendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72381493-C9C0-4A64-A889-BD6CAB3FBD5A}|AuthenticationService\\AuthenticationService.csproj|e:\\14030706\\servicesproject\\authenticationservice\\03-authenticationservice-infrastructure\\services\\authentication\\identityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72381493-C9C0-4A64-A889-BD6CAB3FBD5A}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\03-authenticationservice-infrastructure\\services\\authentication\\identityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72381493-C9C0-4A64-A889-BD6CAB3FBD5A}|AuthenticationService\\AuthenticationService.csproj|e:\\14030706\\servicesproject\\authenticationservice\\02-authenticationservice-applicationlayer\\user\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72381493-C9C0-4A64-A889-BD6CAB3FBD5A}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\02-authenticationservice-applicationlayer\\user\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72381493-C9C0-4A64-A889-BD6CAB3FBD5A}|AuthenticationService\\AuthenticationService.csproj|e:\\14030706\\servicesproject\\authenticationservice\\02-authenticationservice-applicationlayer\\user\\dto\\userforlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72381493-C9C0-4A64-A889-BD6CAB3FBD5A}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\02-authenticationservice-applicationlayer\\user\\dto\\userforlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72381493-C9C0-4A64-A889-BD6CAB3FBD5A}|AuthenticationService\\AuthenticationService.csproj|e:\\14030706\\servicesproject\\authenticationservice\\04-authenticationservice-presentation\\userendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72381493-C9C0-4A64-A889-BD6CAB3FBD5A}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\04-authenticationservice-presentation\\userendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72381493-C9C0-4A64-A889-BD6CAB3FBD5A}|AuthenticationService\\AuthenticationService.csproj|e:\\14030706\\servicesproject\\authenticationservice\\04-authenticationservice-presentation\\roleendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72381493-C9C0-4A64-A889-BD6CAB3FBD5A}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\04-authenticationservice-presentation\\roleendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zeynab.fadaei\\AppData\\Local\\Temp\\.vsdbgsrc\\4dcf567db33b8407e8e7e85491df71d46c06985d33f5ad8d904e52c3b325c6c5\\ExecutionContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72381493-C9C0-4A64-A889-BD6CAB3FBD5A}|AuthenticationService\\AuthenticationService.csproj|e:\\14030706\\servicesproject\\authenticationservice\\02-authenticationservice-applicationlayer\\contracts\\iidentityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72381493-C9C0-4A64-A889-BD6CAB3FBD5A}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\02-authenticationservice-applicationlayer\\contracts\\iidentityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72381493-C9C0-4A64-A889-BD6CAB3FBD5A}|AuthenticationService\\AuthenticationService.csproj|e:\\14030706\\servicesproject\\authenticationservice\\02-authenticationservice-applicationlayer\\role\\rolemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72381493-C9C0-4A64-A889-BD6CAB3FBD5A}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\02-authenticationservice-applicationlayer\\role\\rolemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72381493-C9C0-4A64-A889-BD6CAB3FBD5A}|AuthenticationService\\AuthenticationService.csproj|e:\\14030706\\servicesproject\\authenticationservice\\02-authenticationservice-applicationlayer\\role\\dto\\roleforregisterationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72381493-C9C0-4A64-A889-BD6CAB3FBD5A}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\02-authenticationservice-applicationlayer\\role\\dto\\roleforregisterationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72381493-C9C0-4A64-A889-BD6CAB3FBD5A}|AuthenticationService\\AuthenticationService.csproj|e:\\14030706\\servicesproject\\authenticationservice\\02-authenticationservice-applicationlayer\\role\\dto\\roleclaimsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72381493-C9C0-4A64-A889-BD6CAB3FBD5A}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\02-authenticationservice-applicationlayer\\role\\dto\\roleclaimsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72381493-C9C0-4A64-A889-BD6CAB3FBD5A}|AuthenticationService\\AuthenticationService.csproj|e:\\14030706\\servicesproject\\authenticationservice\\02-authenticationservice-applicationlayer\\user\\dto\\userforregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72381493-C9C0-4A64-A889-BD6CAB3FBD5A}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\02-authenticationservice-applicationlayer\\user\\dto\\userforregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72381493-C9C0-4A64-A889-BD6CAB3FBD5A}|AuthenticationService\\AuthenticationService.csproj|e:\\14030706\\servicesproject\\authenticationservice\\02-authenticationservice-applicationlayer\\contracts\\irolemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72381493-C9C0-4A64-A889-BD6CAB3FBD5A}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\02-authenticationservice-applicationlayer\\contracts\\irolemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72381493-C9C0-4A64-A889-BD6CAB3FBD5A}|AuthenticationService\\AuthenticationService.csproj|e:\\14030706\\servicesproject\\authenticationservice\\01-authenticationservice-domainlayer\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72381493-C9C0-4A64-A889-BD6CAB3FBD5A}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\01-authenticationservice-domainlayer\\user\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72381493-C9C0-4A64-A889-BD6CAB3FBD5A}|AuthenticationService\\AuthenticationService.csproj|e:\\14030706\\servicesproject\\authenticationservice\\01-authenticationservice-domainlayer\\role\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72381493-C9C0-4A64-A889-BD6CAB3FBD5A}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\01-authenticationservice-domainlayer\\role\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zeynab.fadaei\\AppData\\Local\\Temp\\.vsdbgsrc\\e0bd7b98955a27c51598302db7896668da74260b709bb82e8776ac92361903af\\RequestDelegateFactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A74479-6E72-4AE8-A91E-F25BFB39B8B7}|TemplateService\\TemplateService.csproj|e:\\14030706\\servicesproject\\templateservice\\04-templateservice-presentation\\templateendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91A74479-6E72-4AE8-A91E-F25BFB39B8B7}|TemplateService\\TemplateService.csproj|solutionrelative:templateservice\\04-templateservice-presentation\\templateendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91A74479-6E72-4AE8-A91E-F25BFB39B8B7}|TemplateService\\TemplateService.csproj|e:\\14030706\\servicesproject\\templateservice\\04-templateservice-presentation\\tempatetypeendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91A74479-6E72-4AE8-A91E-F25BFB39B8B7}|TemplateService\\TemplateService.csproj|solutionrelative:templateservice\\04-templateservice-presentation\\tempatetypeendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72381493-C9C0-4A64-A889-BD6CAB3FBD5A}|AuthenticationService\\AuthenticationService.csproj|e:\\14030706\\servicesproject\\authenticationservice\\02-authenticationservice-applicationlayer\\role\\dto\\userroleregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72381493-C9C0-4A64-A889-BD6CAB3FBD5A}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\02-authenticationservice-applicationlayer\\role\\dto\\userroleregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\14030706\\ServicesProject\\MonitoringSystem.EndpointAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "MonitoringSystem.EndpointAPI\\appsettings.json",
+              "ToolTip": "E:\\14030706\\ServicesProject\\MonitoringSystem.EndpointAPI\\appsettings.json",
+              "RelativeToolTip": "MonitoringSystem.EndpointAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-02T11:02:25.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SecurityContextModelSnapshot.cs",
+              "DocumentMoniker": "E:\\14030706\\ServicesProject\\AuthenticationService\\Migrations\\SecurityContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "AuthenticationService\\Migrations\\SecurityContextModelSnapshot.cs",
+              "ToolTip": "E:\\14030706\\ServicesProject\\AuthenticationService\\Migrations\\SecurityContextModelSnapshot.cs",
+              "RelativeToolTip": "AuthenticationService\\Migrations\\SecurityContextModelSnapshot.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T11:02:19.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RLSManager.cs",
+              "DocumentMoniker": "E:\\14030706\\ServicesProject\\DiscoveryService\\02-DiscoveryService-ApplicationLayer\\RLS\\RLSManager.cs",
+              "RelativeDocumentMoniker": "DiscoveryService\\02-DiscoveryService-ApplicationLayer\\RLS\\RLSManager.cs",
+              "ToolTip": "E:\\14030706\\ServicesProject\\DiscoveryService\\02-DiscoveryService-ApplicationLayer\\RLS\\RLSManager.cs",
+              "RelativeToolTip": "DiscoveryService\\02-DiscoveryService-ApplicationLayer\\RLS\\RLSManager.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T08:04:39.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OperationGetDto.cs",
+              "DocumentMoniker": "E:\\14030706\\ServicesProject\\ConsistencyService\\02-ConsistencyService-ApplicationLayer\\Operation\\Dto\\OperationGetDto.cs",
+              "RelativeDocumentMoniker": "ConsistencyService\\02-ConsistencyService-ApplicationLayer\\Operation\\Dto\\OperationGetDto.cs",
+              "ToolTip": "E:\\14030706\\ServicesProject\\ConsistencyService\\02-ConsistencyService-ApplicationLayer\\Operation\\Dto\\OperationGetDto.cs",
+              "RelativeToolTip": "ConsistencyService\\02-ConsistencyService-ApplicationLayer\\Operation\\Dto\\OperationGetDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T20:45:28.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OperationCreateDto.cs",
+              "DocumentMoniker": "E:\\14030706\\ServicesProject\\ConsistencyService\\02-ConsistencyService-ApplicationLayer\\Operation\\Dto\\OperationCreateDto.cs",
+              "RelativeDocumentMoniker": "ConsistencyService\\02-ConsistencyService-ApplicationLayer\\Operation\\Dto\\OperationCreateDto.cs",
+              "ToolTip": "E:\\14030706\\ServicesProject\\ConsistencyService\\02-ConsistencyService-ApplicationLayer\\Operation\\Dto\\OperationCreateDto.cs",
+              "RelativeToolTip": "ConsistencyService\\02-ConsistencyService-ApplicationLayer\\Operation\\Dto\\OperationCreateDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T20:45:04.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RuleEndpoint.cs",
+              "DocumentMoniker": "E:\\14030706\\ServicesProject\\ConsistencyService\\04-ConsistencyService-Presentation\\RuleEndpoint.cs",
+              "RelativeDocumentMoniker": "ConsistencyService\\04-ConsistencyService-Presentation\\RuleEndpoint.cs",
+              "ToolTip": "E:\\14030706\\ServicesProject\\ConsistencyService\\04-ConsistencyService-Presentation\\RuleEndpoint.cs",
+              "RelativeToolTip": "ConsistencyService\\04-ConsistencyService-Presentation\\RuleEndpoint.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T07:46:00.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ResultEndpoint.cs",
+              "DocumentMoniker": "E:\\14030706\\ServicesProject\\ConsistencyService\\04-ConsistencyService-Presentation\\ResultEndpoint.cs",
+              "RelativeDocumentMoniker": "ConsistencyService\\04-ConsistencyService-Presentation\\ResultEndpoint.cs",
+              "ToolTip": "E:\\14030706\\ServicesProject\\ConsistencyService\\04-ConsistencyService-Presentation\\ResultEndpoint.cs",
+              "RelativeToolTip": "ConsistencyService\\04-ConsistencyService-Presentation\\ResultEndpoint.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T07:45:55.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RequestEndpoint.cs",
+              "DocumentMoniker": "E:\\14030706\\ServicesProject\\ConsistencyService\\04-ConsistencyService-Presentation\\RequestEndpoint.cs",
+              "RelativeDocumentMoniker": "ConsistencyService\\04-ConsistencyService-Presentation\\RequestEndpoint.cs",
+              "ToolTip": "E:\\14030706\\ServicesProject\\ConsistencyService\\04-ConsistencyService-Presentation\\RequestEndpoint.cs",
+              "RelativeToolTip": "ConsistencyService\\04-ConsistencyService-Presentation\\RequestEndpoint.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T07:45:53.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OperationEndpoint.cs",
+              "DocumentMoniker": "E:\\14030706\\ServicesProject\\ConsistencyService\\04-ConsistencyService-Presentation\\OperationEndpoint.cs",
+              "RelativeDocumentMoniker": "ConsistencyService\\04-ConsistencyService-Presentation\\OperationEndpoint.cs",
+              "ToolTip": "E:\\14030706\\ServicesProject\\ConsistencyService\\04-ConsistencyService-Presentation\\OperationEndpoint.cs",
+              "RelativeToolTip": "ConsistencyService\\04-ConsistencyService-Presentation\\OperationEndpoint.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAADwv0cAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T07:45:51.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserForLoginDto.cs",
+              "DocumentMoniker": "E:\\14030706\\ServicesProject\\AuthenticationService\\02-AuthenticationService-ApplicationLayer\\User\\Dto\\UserForLoginDto.cs",
+              "RelativeDocumentMoniker": "AuthenticationService\\02-AuthenticationService-ApplicationLayer\\User\\Dto\\UserForLoginDto.cs",
+              "ToolTip": "E:\\14030706\\ServicesProject\\AuthenticationService\\02-AuthenticationService-ApplicationLayer\\User\\Dto\\UserForLoginDto.cs",
+              "RelativeToolTip": "AuthenticationService\\02-AuthenticationService-ApplicationLayer\\User\\Dto\\UserForLoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T23:40:39.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "E:\\14030706\\ServicesProject\\AuthenticationService\\02-AuthenticationService-ApplicationLayer\\User\\UserManager.cs",
+              "RelativeDocumentMoniker": "AuthenticationService\\02-AuthenticationService-ApplicationLayer\\User\\UserManager.cs",
+              "ToolTip": "E:\\14030706\\ServicesProject\\AuthenticationService\\02-AuthenticationService-ApplicationLayer\\User\\UserManager.cs",
+              "RelativeToolTip": "AuthenticationService\\02-AuthenticationService-ApplicationLayer\\User\\UserManager.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAUwIsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T07:45:55.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IIdentityService.cs",
+              "DocumentMoniker": "E:\\14030706\\ServicesProject\\AuthenticationService\\02-AuthenticationService-ApplicationLayer\\Contracts\\IIdentityService.cs",
+              "RelativeDocumentMoniker": "AuthenticationService\\02-AuthenticationService-ApplicationLayer\\Contracts\\IIdentityService.cs",
+              "ToolTip": "E:\\14030706\\ServicesProject\\AuthenticationService\\02-AuthenticationService-ApplicationLayer\\Contracts\\IIdentityService.cs",
+              "RelativeToolTip": "AuthenticationService\\02-AuthenticationService-ApplicationLayer\\Contracts\\IIdentityService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T10:19:37.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RoleEndPoint.cs",
+              "DocumentMoniker": "E:\\14030706\\ServicesProject\\AuthenticationService\\04-AuthenticationService-Presentation\\RoleEndPoint.cs",
+              "RelativeDocumentMoniker": "AuthenticationService\\04-AuthenticationService-Presentation\\RoleEndPoint.cs",
+              "ToolTip": "E:\\14030706\\ServicesProject\\AuthenticationService\\04-AuthenticationService-Presentation\\RoleEndPoint.cs",
+              "RelativeToolTip": "AuthenticationService\\04-AuthenticationService-Presentation\\RoleEndPoint.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAvwFkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T07:42:05.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IdentityService.cs",
+              "DocumentMoniker": "E:\\14030706\\ServicesProject\\AuthenticationService\\03-AuthenticationService-Infrastructure\\Services\\Authentication\\IdentityService.cs",
+              "RelativeDocumentMoniker": "AuthenticationService\\03-AuthenticationService-Infrastructure\\Services\\Authentication\\IdentityService.cs",
+              "ToolTip": "E:\\14030706\\ServicesProject\\AuthenticationService\\03-AuthenticationService-Infrastructure\\Services\\Authentication\\IdentityService.cs",
+              "RelativeToolTip": "AuthenticationService\\03-AuthenticationService-Infrastructure\\Services\\Authentication\\IdentityService.cs",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAIwKIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T07:48:45.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserEndPoint.cs",
+              "DocumentMoniker": "E:\\14030706\\ServicesProject\\AuthenticationService\\04-AuthenticationService-Presentation\\UserEndPoint.cs",
+              "RelativeDocumentMoniker": "AuthenticationService\\04-AuthenticationService-Presentation\\UserEndPoint.cs",
+              "ToolTip": "E:\\14030706\\ServicesProject\\AuthenticationService\\04-AuthenticationService-Presentation\\UserEndPoint.cs",
+              "RelativeToolTip": "AuthenticationService\\04-AuthenticationService-Presentation\\UserEndPoint.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAiwHMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T06:16:04.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RoleForRegisterationDto.cs",
+              "DocumentMoniker": "E:\\14030706\\ServicesProject\\AuthenticationService\\02-AuthenticationService-ApplicationLayer\\Role\\Dto\\RoleForRegisterationDto.cs",
+              "RelativeDocumentMoniker": "AuthenticationService\\02-AuthenticationService-ApplicationLayer\\Role\\Dto\\RoleForRegisterationDto.cs",
+              "ToolTip": "E:\\14030706\\ServicesProject\\AuthenticationService\\02-AuthenticationService-ApplicationLayer\\Role\\Dto\\RoleForRegisterationDto.cs",
+              "RelativeToolTip": "AuthenticationService\\02-AuthenticationService-ApplicationLayer\\Role\\Dto\\RoleForRegisterationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T09:05:48.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ExecutionContext.cs",
+              "DocumentMoniker": "C:\\Users\\zeynab.fadaei\\AppData\\Local\\Temp\\.vsdbgsrc\\4dcf567db33b8407e8e7e85491df71d46c06985d33f5ad8d904e52c3b325c6c5\\ExecutionContext.cs",
+              "ToolTip": "C:\\Users\\zeynab.fadaei\\AppData\\Local\\Temp\\.vsdbgsrc\\4dcf567db33b8407e8e7e85491df71d46c06985d33f5ad8d904e52c3b325c6c5\\ExecutionContext.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAmwIkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T10:32:24.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RoleManager.cs",
+              "DocumentMoniker": "E:\\14030706\\ServicesProject\\AuthenticationService\\02-AuthenticationService-ApplicationLayer\\Role\\RoleManager.cs",
+              "RelativeDocumentMoniker": "AuthenticationService\\02-AuthenticationService-ApplicationLayer\\Role\\RoleManager.cs",
+              "ToolTip": "E:\\14030706\\ServicesProject\\AuthenticationService\\02-AuthenticationService-ApplicationLayer\\Role\\RoleManager.cs",
+              "RelativeToolTip": "AuthenticationService\\02-AuthenticationService-ApplicationLayer\\Role\\RoleManager.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAADgvzIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T07:48:05.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RoleClaimsDto.cs",
+              "DocumentMoniker": "E:\\14030706\\ServicesProject\\AuthenticationService\\02-AuthenticationService-ApplicationLayer\\Role\\Dto\\RoleClaimsDto.cs",
+              "RelativeDocumentMoniker": "AuthenticationService\\02-AuthenticationService-ApplicationLayer\\Role\\Dto\\RoleClaimsDto.cs",
+              "ToolTip": "E:\\14030706\\ServicesProject\\AuthenticationService\\02-AuthenticationService-ApplicationLayer\\Role\\Dto\\RoleClaimsDto.cs",
+              "RelativeToolTip": "AuthenticationService\\02-AuthenticationService-ApplicationLayer\\Role\\Dto\\RoleClaimsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T01:52:26.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserForRegistrationDto.cs",
+              "DocumentMoniker": "E:\\14030706\\ServicesProject\\AuthenticationService\\02-AuthenticationService-ApplicationLayer\\User\\Dto\\UserForRegistrationDto.cs",
+              "RelativeDocumentMoniker": "AuthenticationService\\02-AuthenticationService-ApplicationLayer\\User\\Dto\\UserForRegistrationDto.cs",
+              "ToolTip": "E:\\14030706\\ServicesProject\\AuthenticationService\\02-AuthenticationService-ApplicationLayer\\User\\Dto\\UserForRegistrationDto.cs",
+              "RelativeToolTip": "AuthenticationService\\02-AuthenticationService-ApplicationLayer\\User\\Dto\\UserForRegistrationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T09:05:40.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IRoleManager.cs",
+              "DocumentMoniker": "E:\\14030706\\ServicesProject\\AuthenticationService\\02-AuthenticationService-ApplicationLayer\\Contracts\\IRoleManager.cs",
+              "RelativeDocumentMoniker": "AuthenticationService\\02-AuthenticationService-ApplicationLayer\\Contracts\\IRoleManager.cs",
+              "ToolTip": "E:\\14030706\\ServicesProject\\AuthenticationService\\02-AuthenticationService-ApplicationLayer\\Contracts\\IRoleManager.cs",
+              "RelativeToolTip": "AuthenticationService\\02-AuthenticationService-ApplicationLayer\\Contracts\\IRoleManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T09:45:56.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TempateTypeEndpoint.cs",
+              "DocumentMoniker": "E:\\14030706\\ServicesProject\\TemplateService\\04-TemplateService-Presentation\\TempateTypeEndpoint.cs",
+              "RelativeDocumentMoniker": "TemplateService\\04-TemplateService-Presentation\\TempateTypeEndpoint.cs",
+              "ToolTip": "E:\\14030706\\ServicesProject\\TemplateService\\04-TemplateService-Presentation\\TempateTypeEndpoint.cs",
+              "RelativeToolTip": "TemplateService\\04-TemplateService-Presentation\\TempateTypeEndpoint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T10:23:53.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Role.cs",
+              "DocumentMoniker": "E:\\14030706\\ServicesProject\\AuthenticationService\\01-AuthenticationService-DomainLayer\\Role\\Role.cs",
+              "RelativeDocumentMoniker": "AuthenticationService\\01-AuthenticationService-DomainLayer\\Role\\Role.cs",
+              "ToolTip": "E:\\14030706\\ServicesProject\\AuthenticationService\\01-AuthenticationService-DomainLayer\\Role\\Role.cs",
+              "RelativeToolTip": "AuthenticationService\\01-AuthenticationService-DomainLayer\\Role\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T10:34:59.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\14030706\\ServicesProject\\AuthenticationService\\01-AuthenticationService-DomainLayer\\User\\User.cs",
+              "RelativeDocumentMoniker": "AuthenticationService\\01-AuthenticationService-DomainLayer\\User\\User.cs",
+              "ToolTip": "E:\\14030706\\ServicesProject\\AuthenticationService\\01-AuthenticationService-DomainLayer\\User\\User.cs",
+              "RelativeToolTip": "AuthenticationService\\01-AuthenticationService-DomainLayer\\User\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T10:35:25.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RequestDelegateFactory.cs",
+              "DocumentMoniker": "C:\\Users\\zeynab.fadaei\\AppData\\Local\\Temp\\.vsdbgsrc\\e0bd7b98955a27c51598302db7896668da74260b709bb82e8776ac92361903af\\RequestDelegateFactory.cs",
+              "ToolTip": "C:\\Users\\zeynab.fadaei\\AppData\\Local\\Temp\\.vsdbgsrc\\e0bd7b98955a27c51598302db7896668da74260b709bb82e8776ac92361903af\\RequestDelegateFactory.cs [Read Only]",
+              "ViewState": "AQIAAE4DAAAAAAAAAAAvwGUDAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T10:29:48.431Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "TemplateEndpoint.cs",
+              "DocumentMoniker": "E:\\14030706\\ServicesProject\\TemplateService\\04-TemplateService-Presentation\\TemplateEndpoint.cs",
+              "RelativeDocumentMoniker": "TemplateService\\04-TemplateService-Presentation\\TemplateEndpoint.cs",
+              "ToolTip": "E:\\14030706\\ServicesProject\\TemplateService\\04-TemplateService-Presentation\\TemplateEndpoint.cs",
+              "RelativeToolTip": "TemplateService\\04-TemplateService-Presentation\\TemplateEndpoint.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T10:24:03.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserRoleRegistrationDto.cs",
+              "DocumentMoniker": "E:\\14030706\\ServicesProject\\AuthenticationService\\02-AuthenticationService-ApplicationLayer\\Role\\Dto\\UserRoleRegistrationDto.cs",
+              "RelativeDocumentMoniker": "AuthenticationService\\02-AuthenticationService-ApplicationLayer\\Role\\Dto\\UserRoleRegistrationDto.cs",
+              "ToolTip": "E:\\14030706\\ServicesProject\\AuthenticationService\\02-AuthenticationService-ApplicationLayer\\Role\\Dto\\UserRoleRegistrationDto.cs",
+              "RelativeToolTip": "AuthenticationService\\02-AuthenticationService-ApplicationLayer\\Role\\Dto\\UserRoleRegistrationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T07:40:34.494Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4bBHqnmWuD80gx8ncjGSorE2duWVv5jo6hWAE05tWm8=",
+  "Source": "MonitoringSystem.EndpointAPI",
+  "BasePath": "_content/MonitoringSystem.EndpointAPI",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

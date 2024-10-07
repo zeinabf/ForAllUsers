@@ -1,0 +1,923 @@
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\MonitoringSystem.EndpointAPI.csproj.AssemblyReference.cache
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\MonitoringSystem.EndpointAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\MonitoringSystem.EndpointAPI.AssemblyInfoInputs.cache
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\MonitoringSystem.EndpointAPI.AssemblyInfo.cs
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\MonitoringSystem.EndpointAPI.csproj.CoreCompileInputs.cache
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\MonitoringSystem.EndpointAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\appsettings.json
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\MonitoringSystem.EndpointAPI.exe
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\MonitoringSystem.EndpointAPI.deps.json
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\MonitoringSystem.EndpointAPI.runtimeconfig.json
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\MonitoringSystem.EndpointAPI.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\MonitoringSystem.EndpointAPI.pdb
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Carter.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Dapper.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\FluentValidation.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\ConsistencyService.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\DiscoveryService.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\QueryService.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\ConsistencyService.pdb
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\DiscoveryService.pdb
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\QueryService.pdb
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\staticwebassets\msbuild.MonitoringSystem.EndpointAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.MonitoringSystem.EndpointAPI.props
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MonitoringSystem.EndpointAPI.props
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MonitoringSystem.EndpointAPI.props
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\scopedcss\bundle\MonitoringSystem.EndpointAPI.styles.css
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\Monitori.E6D4CBDD.Up2Date
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\MonitoringSystem.EndpointAPI.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\refint\MonitoringSystem.EndpointAPI.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\MonitoringSystem.EndpointAPI.pdb
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\MonitoringSystem.EndpointAPI.genruntimeconfig.cache
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\ref\MonitoringSystem.EndpointAPI.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Azure.Core.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Azure.Identity.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.DynamicLinq.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Linq.Dynamic.Core.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Memory.Data.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\MonitoringSystem.EndpointAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\appsettings.Production.json
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.Exchange.WebServices.Auth.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.Exchange.WebServices.dll
+D:\ServicesProject\BackEnd\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\CSharpFunctionalExtensions.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\appsettings.json
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\appsettings.Production.json
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\MonitoringSystem.EndpointAPI.exe
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\MonitoringSystem.EndpointAPI.deps.json
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\MonitoringSystem.EndpointAPI.runtimeconfig.json
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\MonitoringSystem.EndpointAPI.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\MonitoringSystem.EndpointAPI.pdb
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Azure.Core.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Azure.Identity.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Carter.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\CSharpFunctionalExtensions.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Dapper.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\FluentValidation.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Humanizer.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.Exchange.WebServices.Auth.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.Exchange.WebServices.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.CodeDom.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\AuthenticationService.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\ConsistencyService.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\DiscoveryService.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\QueryService.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\TemplateService.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\AuthenticationService.pdb
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\ConsistencyService.pdb
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\DiscoveryService.pdb
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\TemplateService.pdb
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\QueryService.pdb
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\MonitoringSystem.EndpointAPI.csproj.AssemblyReference.cache
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\MonitoringSystem.EndpointAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\MonitoringSystem.EndpointAPI.AssemblyInfoInputs.cache
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\MonitoringSystem.EndpointAPI.AssemblyInfo.cs
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\MonitoringSystem.EndpointAPI.csproj.CoreCompileInputs.cache
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\MonitoringSystem.EndpointAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\staticwebassets\msbuild.MonitoringSystem.EndpointAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.MonitoringSystem.EndpointAPI.props
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MonitoringSystem.EndpointAPI.props
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MonitoringSystem.EndpointAPI.props
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\scopedcss\bundle\MonitoringSystem.EndpointAPI.styles.css
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\Monitori.E6D4CBDD.Up2Date
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\MonitoringSystem.EndpointAPI.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\refint\MonitoringSystem.EndpointAPI.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\MonitoringSystem.EndpointAPI.pdb
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\MonitoringSystem.EndpointAPI.genruntimeconfig.cache
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\ref\MonitoringSystem.EndpointAPI.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Assessment.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Assessment.Types.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.Data.Tools.Sql.BatchParser.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.ConnectionInfo.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Dmf.Common.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Dmf.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Management.Assessment.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Management.Collector.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Management.CollectorEnum.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Management.HadrData.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Management.HadrModel.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Management.RegisteredServers.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Management.XEvent.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Management.XEventDbScoped.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Management.XEventEnum.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.PolicyEnum.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Smo.Notebook.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Smo.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.SmoExtended.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.SqlEnum.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.SqlWmiManagement.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.WmiEnum.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Data.OleDb.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Management.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Management.dll
+D:\Backup20240731\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\MonitoringSystem.EndpointAPI.MvcApplicationPartsAssemblyInfo.cs
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\appsettings.Development.json
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\appsettings.json
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\appsettings.Production.json
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\MonitoringSystem.EndpointAPI.exe
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\MonitoringSystem.EndpointAPI.deps.json
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\MonitoringSystem.EndpointAPI.runtimeconfig.json
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\MonitoringSystem.EndpointAPI.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\MonitoringSystem.EndpointAPI.pdb
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Azure.Core.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Azure.Identity.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Carter.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\CSharpFunctionalExtensions.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Dapper.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\FluentValidation.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Humanizer.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.Exchange.WebServices.Auth.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.Exchange.WebServices.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Assessment.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Assessment.Types.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.Data.Tools.Sql.BatchParser.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.ConnectionInfo.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Dmf.Common.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Dmf.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Management.Assessment.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Management.Collector.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Management.CollectorEnum.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Management.HadrData.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Management.HadrModel.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Management.RegisteredServers.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Management.XEvent.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Management.XEventDbScoped.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Management.XEventEnum.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.PolicyEnum.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.ServiceBrokerEnum.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Smo.Notebook.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Smo.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.SmoExtended.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.SqlEnum.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.SqlWmiManagement.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.WmiEnum.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.CodeDom.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Data.OleDb.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Data.SqlClient.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Management.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Memory.Data.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Text.Json.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Management.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\AuthenticationService.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\ConsistencyService.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\DiscoveryService.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\QueryService.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\TemplateService.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\AuthenticationService.pdb
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\ConsistencyService.pdb
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\DiscoveryService.pdb
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\TemplateService.pdb
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\QueryService.pdb
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\MonitoringSystem.EndpointAPI.csproj.AssemblyReference.cache
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\MonitoringSystem.EndpointAPI.GeneratedMSBuildEditorConfig.editorconfig
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\MonitoringSystem.EndpointAPI.AssemblyInfoInputs.cache
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\MonitoringSystem.EndpointAPI.AssemblyInfo.cs
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\MonitoringSystem.EndpointAPI.csproj.CoreCompileInputs.cache
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\MonitoringSystem.EndpointAPI.MvcApplicationPartsAssemblyInfo.cs
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\MonitoringSystem.EndpointAPI.MvcApplicationPartsAssemblyInfo.cache
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\staticwebassets.build.json
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\staticwebassets.development.json
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\staticwebassets\msbuild.MonitoringSystem.EndpointAPI.Microsoft.AspNetCore.StaticWebAssets.props
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.MonitoringSystem.EndpointAPI.props
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MonitoringSystem.EndpointAPI.props
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MonitoringSystem.EndpointAPI.props
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\staticwebassets.pack.json
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\scopedcss\bundle\MonitoringSystem.EndpointAPI.styles.css
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\MonitoringSystem.EndpointAPI.csproj.CopyComplete
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\MonitoringSystem.EndpointAPI.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\refint\MonitoringSystem.EndpointAPI.dll
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\MonitoringSystem.EndpointAPI.pdb
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\MonitoringSystem.EndpointAPI.genruntimeconfig.cache
+F:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\ref\MonitoringSystem.EndpointAPI.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\appsettings.Development.json
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\appsettings.json
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\appsettings.Production.json
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\MonitoringSystem.EndpointAPI.exe
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\MonitoringSystem.EndpointAPI.deps.json
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\MonitoringSystem.EndpointAPI.runtimeconfig.json
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\MonitoringSystem.EndpointAPI.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\MonitoringSystem.EndpointAPI.pdb
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Azure.Core.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Azure.Identity.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Carter.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\CSharpFunctionalExtensions.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Dapper.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\FluentValidation.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Humanizer.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.Exchange.WebServices.Auth.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.Exchange.WebServices.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Assessment.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Assessment.Types.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.Data.Tools.Sql.BatchParser.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.ConnectionInfo.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Dmf.Common.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Dmf.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Management.Assessment.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Management.Collector.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Management.CollectorEnum.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Management.HadrData.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Management.HadrModel.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Management.RegisteredServers.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Management.XEvent.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Management.XEventDbScoped.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Management.XEventEnum.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.PolicyEnum.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.ServiceBrokerEnum.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Smo.Notebook.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Smo.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.SmoExtended.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.SqlEnum.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.SqlWmiManagement.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.WmiEnum.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.CodeDom.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Data.OleDb.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Data.SqlClient.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Management.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Memory.Data.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Management.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\AuthenticationService.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\ConsistencyService.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\DiscoveryService.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\QueryService.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\TemplateService.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\AuthenticationService.pdb
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\ConsistencyService.pdb
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\DiscoveryService.pdb
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\TemplateService.pdb
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\QueryService.pdb
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\MonitoringSystem.EndpointAPI.csproj.AssemblyReference.cache
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\MonitoringSystem.EndpointAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\MonitoringSystem.EndpointAPI.AssemblyInfoInputs.cache
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\MonitoringSystem.EndpointAPI.AssemblyInfo.cs
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\MonitoringSystem.EndpointAPI.csproj.CoreCompileInputs.cache
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\MonitoringSystem.EndpointAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\MonitoringSystem.EndpointAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\staticwebassets.build.json
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\staticwebassets.development.json
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\staticwebassets\msbuild.MonitoringSystem.EndpointAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.MonitoringSystem.EndpointAPI.props
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MonitoringSystem.EndpointAPI.props
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MonitoringSystem.EndpointAPI.props
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\staticwebassets.pack.json
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\scopedcss\bundle\MonitoringSystem.EndpointAPI.styles.css
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\Monitori.E6D4CBDD.Up2Date
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\MonitoringSystem.EndpointAPI.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\refint\MonitoringSystem.EndpointAPI.dll
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\MonitoringSystem.EndpointAPI.pdb
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\MonitoringSystem.EndpointAPI.genruntimeconfig.cache
+E:\14030706\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\ref\MonitoringSystem.EndpointAPI.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\appsettings.Development.json
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\appsettings.json
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\appsettings.Production.json
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\MonitoringSystem.EndpointAPI.exe
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\MonitoringSystem.EndpointAPI.deps.json
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\MonitoringSystem.EndpointAPI.runtimeconfig.json
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\MonitoringSystem.EndpointAPI.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\MonitoringSystem.EndpointAPI.pdb
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Azure.Core.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Azure.Identity.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Carter.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\CSharpFunctionalExtensions.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\FluentValidation.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Humanizer.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Assessment.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Assessment.Types.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.Data.Tools.Sql.BatchParser.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.ConnectionInfo.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Dmf.Common.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Dmf.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Management.Assessment.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Management.Collector.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Management.CollectorEnum.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Management.HadrData.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Management.HadrModel.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Management.RegisteredServers.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Management.XEvent.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Management.XEventDbScoped.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Management.XEventEnum.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.PolicyEnum.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.ServiceBrokerEnum.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Smo.Notebook.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.Smo.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.SmoExtended.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.SqlEnum.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.SqlWmiManagement.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.SqlServer.WmiEnum.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.CodeDom.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Data.OleDb.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Diagnostics.PerformanceCounter.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Management.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Memory.Data.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Text.Json.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Management.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\AuthenticationService.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\AuthenticationService.pdb
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\MonitoringSystem.EndpointAPI.csproj.AssemblyReference.cache
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\MonitoringSystem.EndpointAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\MonitoringSystem.EndpointAPI.AssemblyInfoInputs.cache
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\MonitoringSystem.EndpointAPI.AssemblyInfo.cs
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\MonitoringSystem.EndpointAPI.csproj.CoreCompileInputs.cache
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\MonitoringSystem.EndpointAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\staticwebassets.build.json
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\staticwebassets.development.json
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\staticwebassets\msbuild.MonitoringSystem.EndpointAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.MonitoringSystem.EndpointAPI.props
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MonitoringSystem.EndpointAPI.props
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MonitoringSystem.EndpointAPI.props
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\staticwebassets.pack.json
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\scopedcss\bundle\MonitoringSystem.EndpointAPI.styles.css
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\MonitoringSystem.EndpointAPI.csproj.CopyComplete
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\MonitoringSystem.EndpointAPI.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\refint\MonitoringSystem.EndpointAPI.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\MonitoringSystem.EndpointAPI.pdb
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\MonitoringSystem.EndpointAPI.genruntimeconfig.cache
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\ref\MonitoringSystem.EndpointAPI.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\Dapper.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\System.Data.SqlClient.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\WeatherForecast.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\bin\Debug\net8.0\WeatherForecast.pdb
+E:\API Arch\API-AuthenticationImp\ServicesProject\MonitoringSystem.EndpointAPI\obj\Debug\net8.0\MonitoringSystem.EndpointAPI.MvcApplicationPartsAssemblyInfo.cs

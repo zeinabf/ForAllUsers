@@ -1,0 +1,56 @@
+D:\Backup20240731\ServicesProject\AuthenticationService\bin\Debug\net8.0\AuthenticationService.deps.json
+D:\Backup20240731\ServicesProject\AuthenticationService\bin\Debug\net8.0\AuthenticationService.runtimeconfig.json
+D:\Backup20240731\ServicesProject\AuthenticationService\bin\Debug\net8.0\AuthenticationService.dll
+D:\Backup20240731\ServicesProject\AuthenticationService\bin\Debug\net8.0\AuthenticationService.pdb
+D:\Backup20240731\ServicesProject\AuthenticationService\obj\Debug\net8.0\AuthenticationService.csproj.AssemblyReference.cache
+D:\Backup20240731\ServicesProject\AuthenticationService\obj\Debug\net8.0\AuthenticationService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backup20240731\ServicesProject\AuthenticationService\obj\Debug\net8.0\AuthenticationService.AssemblyInfoInputs.cache
+D:\Backup20240731\ServicesProject\AuthenticationService\obj\Debug\net8.0\AuthenticationService.AssemblyInfo.cs
+D:\Backup20240731\ServicesProject\AuthenticationService\obj\Debug\net8.0\AuthenticationService.csproj.CoreCompileInputs.cache
+D:\Backup20240731\ServicesProject\AuthenticationService\obj\Debug\net8.0\AuthenticationService.dll
+D:\Backup20240731\ServicesProject\AuthenticationService\obj\Debug\net8.0\refint\AuthenticationService.dll
+D:\Backup20240731\ServicesProject\AuthenticationService\obj\Debug\net8.0\AuthenticationService.pdb
+D:\Backup20240731\ServicesProject\AuthenticationService\obj\Debug\net8.0\AuthenticationService.genruntimeconfig.cache
+D:\Backup20240731\ServicesProject\AuthenticationService\obj\Debug\net8.0\ref\AuthenticationService.dll
+F:\14030706\ServicesProject\AuthenticationService\bin\Debug\net8.0\AuthenticationService.deps.json
+F:\14030706\ServicesProject\AuthenticationService\bin\Debug\net8.0\AuthenticationService.runtimeconfig.json
+F:\14030706\ServicesProject\AuthenticationService\bin\Debug\net8.0\AuthenticationService.dll
+F:\14030706\ServicesProject\AuthenticationService\bin\Debug\net8.0\AuthenticationService.pdb
+F:\14030706\ServicesProject\AuthenticationService\obj\Debug\net8.0\AuthenticationService.csproj.AssemblyReference.cache
+F:\14030706\ServicesProject\AuthenticationService\obj\Debug\net8.0\AuthenticationService.GeneratedMSBuildEditorConfig.editorconfig
+F:\14030706\ServicesProject\AuthenticationService\obj\Debug\net8.0\AuthenticationService.AssemblyInfoInputs.cache
+F:\14030706\ServicesProject\AuthenticationService\obj\Debug\net8.0\AuthenticationService.AssemblyInfo.cs
+F:\14030706\ServicesProject\AuthenticationService\obj\Debug\net8.0\AuthenticationService.csproj.CoreCompileInputs.cache
+F:\14030706\ServicesProject\AuthenticationService\obj\Debug\net8.0\AuthenticationService.dll
+F:\14030706\ServicesProject\AuthenticationService\obj\Debug\net8.0\refint\AuthenticationService.dll
+F:\14030706\ServicesProject\AuthenticationService\obj\Debug\net8.0\AuthenticationService.pdb
+F:\14030706\ServicesProject\AuthenticationService\obj\Debug\net8.0\AuthenticationService.genruntimeconfig.cache
+F:\14030706\ServicesProject\AuthenticationService\obj\Debug\net8.0\ref\AuthenticationService.dll
+E:\14030706\ServicesProject\AuthenticationService\bin\Debug\net8.0\AuthenticationService.deps.json
+E:\14030706\ServicesProject\AuthenticationService\bin\Debug\net8.0\AuthenticationService.runtimeconfig.json
+E:\14030706\ServicesProject\AuthenticationService\bin\Debug\net8.0\AuthenticationService.dll
+E:\14030706\ServicesProject\AuthenticationService\bin\Debug\net8.0\AuthenticationService.pdb
+E:\14030706\ServicesProject\AuthenticationService\obj\Debug\net8.0\AuthenticationService.csproj.AssemblyReference.cache
+E:\14030706\ServicesProject\AuthenticationService\obj\Debug\net8.0\AuthenticationService.GeneratedMSBuildEditorConfig.editorconfig
+E:\14030706\ServicesProject\AuthenticationService\obj\Debug\net8.0\AuthenticationService.AssemblyInfoInputs.cache
+E:\14030706\ServicesProject\AuthenticationService\obj\Debug\net8.0\AuthenticationService.AssemblyInfo.cs
+E:\14030706\ServicesProject\AuthenticationService\obj\Debug\net8.0\AuthenticationService.csproj.CoreCompileInputs.cache
+E:\14030706\ServicesProject\AuthenticationService\obj\Debug\net8.0\AuthenticationService.dll
+E:\14030706\ServicesProject\AuthenticationService\obj\Debug\net8.0\refint\AuthenticationService.dll
+E:\14030706\ServicesProject\AuthenticationService\obj\Debug\net8.0\AuthenticationService.pdb
+E:\14030706\ServicesProject\AuthenticationService\obj\Debug\net8.0\AuthenticationService.genruntimeconfig.cache
+E:\14030706\ServicesProject\AuthenticationService\obj\Debug\net8.0\ref\AuthenticationService.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\AuthenticationService\bin\Debug\net8.0\AuthenticationService.deps.json
+E:\API Arch\API-AuthenticationImp\ServicesProject\AuthenticationService\bin\Debug\net8.0\AuthenticationService.runtimeconfig.json
+E:\API Arch\API-AuthenticationImp\ServicesProject\AuthenticationService\bin\Debug\net8.0\AuthenticationService.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\AuthenticationService\bin\Debug\net8.0\AuthenticationService.pdb
+E:\API Arch\API-AuthenticationImp\ServicesProject\AuthenticationService\obj\Debug\net8.0\AuthenticationService.csproj.AssemblyReference.cache
+E:\API Arch\API-AuthenticationImp\ServicesProject\AuthenticationService\obj\Debug\net8.0\AuthenticationService.GeneratedMSBuildEditorConfig.editorconfig
+E:\API Arch\API-AuthenticationImp\ServicesProject\AuthenticationService\obj\Debug\net8.0\AuthenticationService.AssemblyInfoInputs.cache
+E:\API Arch\API-AuthenticationImp\ServicesProject\AuthenticationService\obj\Debug\net8.0\AuthenticationService.AssemblyInfo.cs
+E:\API Arch\API-AuthenticationImp\ServicesProject\AuthenticationService\obj\Debug\net8.0\AuthenticationService.csproj.CoreCompileInputs.cache
+E:\API Arch\API-AuthenticationImp\ServicesProject\AuthenticationService\obj\Debug\net8.0\AuthenticationService.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\AuthenticationService\obj\Debug\net8.0\refint\AuthenticationService.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\AuthenticationService\obj\Debug\net8.0\AuthenticationService.pdb
+E:\API Arch\API-AuthenticationImp\ServicesProject\AuthenticationService\obj\Debug\net8.0\AuthenticationService.genruntimeconfig.cache
+E:\API Arch\API-AuthenticationImp\ServicesProject\AuthenticationService\obj\Debug\net8.0\ref\AuthenticationService.dll

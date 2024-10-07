@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <UserSecretsId>23b4fb87-b71a-4eed-818c-662d76003d41</UserSecretsId>
+  </PropertyGroup>
+	<ItemGroup>
+		<PackageReference Include="Carter" Version="8.1.0" />
+		<PackageReference Include="CSharpFunctionalExtensions" Version="2.42.5" />
+		<PackageReference Include="Dapper" Version="2.1.35" />
+		<PackageReference Include="Microsoft.Extensions.Configuration.UserSecrets" Version="6.0.1" />
+		<PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
+		<ProjectReference Include="..\AuthenticationService\AuthenticationService.csproj" />
+
+	</ItemGroup>
+	
+
+</Project>

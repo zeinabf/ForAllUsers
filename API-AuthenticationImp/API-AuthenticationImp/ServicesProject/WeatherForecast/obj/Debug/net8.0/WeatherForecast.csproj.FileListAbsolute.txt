@@ -1,0 +1,15 @@
+E:\API Arch\API-AuthenticationImp\ServicesProject\WeatherForecast\obj\Debug\net8.0\WeatherForecast.csproj.AssemblyReference.cache
+E:\API Arch\API-AuthenticationImp\ServicesProject\WeatherForecast\obj\Debug\net8.0\WeatherForecast.GeneratedMSBuildEditorConfig.editorconfig
+E:\API Arch\API-AuthenticationImp\ServicesProject\WeatherForecast\obj\Debug\net8.0\WeatherForecast.AssemblyInfoInputs.cache
+E:\API Arch\API-AuthenticationImp\ServicesProject\WeatherForecast\obj\Debug\net8.0\WeatherForecast.AssemblyInfo.cs
+E:\API Arch\API-AuthenticationImp\ServicesProject\WeatherForecast\obj\Debug\net8.0\WeatherForecast.csproj.CoreCompileInputs.cache
+E:\API Arch\API-AuthenticationImp\ServicesProject\WeatherForecast\bin\Debug\net8.0\WeatherForecast.deps.json
+E:\API Arch\API-AuthenticationImp\ServicesProject\WeatherForecast\bin\Debug\net8.0\WeatherForecast.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\WeatherForecast\bin\Debug\net8.0\WeatherForecast.pdb
+E:\API Arch\API-AuthenticationImp\ServicesProject\WeatherForecast\bin\Debug\net8.0\AuthenticationService.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\WeatherForecast\bin\Debug\net8.0\AuthenticationService.pdb
+E:\API Arch\API-AuthenticationImp\ServicesProject\WeatherForecast\obj\Debug\net8.0\WeatherForecast.csproj.CopyComplete
+E:\API Arch\API-AuthenticationImp\ServicesProject\WeatherForecast\obj\Debug\net8.0\WeatherForecast.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\WeatherForecast\obj\Debug\net8.0\refint\WeatherForecast.dll
+E:\API Arch\API-AuthenticationImp\ServicesProject\WeatherForecast\obj\Debug\net8.0\WeatherForecast.pdb
+E:\API Arch\API-AuthenticationImp\ServicesProject\WeatherForecast\obj\Debug\net8.0\ref\WeatherForecast.dll
