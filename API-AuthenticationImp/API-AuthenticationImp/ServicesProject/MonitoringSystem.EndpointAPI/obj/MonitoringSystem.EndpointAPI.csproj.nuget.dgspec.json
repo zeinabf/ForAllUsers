@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\API Arch\\API-AuthenticationImp\\ServicesProject\\MonitoringSystem.EndpointAPI\\MonitoringSystem.EndpointAPI.csproj": {}
+    "D:\\GitRepository\\ForAllUsers\\API-AuthenticationImp\\API-AuthenticationImp\\ServicesProject\\MonitoringSystem.EndpointAPI\\MonitoringSystem.EndpointAPI.csproj": {}
   },
   "projects": {
-    "E:\\API Arch\\API-AuthenticationImp\\ServicesProject\\AuthenticationService\\AuthenticationService.csproj": {
+    "D:\\GitRepository\\ForAllUsers\\API-AuthenticationImp\\API-AuthenticationImp\\ServicesProject\\AuthenticationService\\AuthenticationService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\API Arch\\API-AuthenticationImp\\ServicesProject\\AuthenticationService\\AuthenticationService.csproj",
+        "projectUniqueName": "D:\\GitRepository\\ForAllUsers\\API-AuthenticationImp\\API-AuthenticationImp\\ServicesProject\\AuthenticationService\\AuthenticationService.csproj",
         "projectName": "AuthenticationService",
-        "projectPath": "E:\\API Arch\\API-AuthenticationImp\\ServicesProject\\AuthenticationService\\AuthenticationService.csproj",
+        "projectPath": "D:\\GitRepository\\ForAllUsers\\API-AuthenticationImp\\API-AuthenticationImp\\ServicesProject\\AuthenticationService\\AuthenticationService.csproj",
         "packagesPath": "C:\\Users\\Zeinab\\.nuget\\packages\\",
-        "outputPath": "E:\\API Arch\\API-AuthenticationImp\\ServicesProject\\AuthenticationService\\obj\\",
+        "outputPath": "D:\\GitRepository\\ForAllUsers\\API-AuthenticationImp\\API-AuthenticationImp\\ServicesProject\\AuthenticationService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Zeinab\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -111,14 +111,14 @@
         }
       }
     },
-    "E:\\API Arch\\API-AuthenticationImp\\ServicesProject\\MonitoringSystem.EndpointAPI\\MonitoringSystem.EndpointAPI.csproj": {
+    "D:\\GitRepository\\ForAllUsers\\API-AuthenticationImp\\API-AuthenticationImp\\ServicesProject\\MonitoringSystem.EndpointAPI\\MonitoringSystem.EndpointAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\API Arch\\API-AuthenticationImp\\ServicesProject\\MonitoringSystem.EndpointAPI\\MonitoringSystem.EndpointAPI.csproj",
+        "projectUniqueName": "D:\\GitRepository\\ForAllUsers\\API-AuthenticationImp\\API-AuthenticationImp\\ServicesProject\\MonitoringSystem.EndpointAPI\\MonitoringSystem.EndpointAPI.csproj",
         "projectName": "MonitoringSystem.EndpointAPI",
-        "projectPath": "E:\\API Arch\\API-AuthenticationImp\\ServicesProject\\MonitoringSystem.EndpointAPI\\MonitoringSystem.EndpointAPI.csproj",
+        "projectPath": "D:\\GitRepository\\ForAllUsers\\API-AuthenticationImp\\API-AuthenticationImp\\ServicesProject\\MonitoringSystem.EndpointAPI\\MonitoringSystem.EndpointAPI.csproj",
         "packagesPath": "C:\\Users\\Zeinab\\.nuget\\packages\\",
-        "outputPath": "E:\\API Arch\\API-AuthenticationImp\\ServicesProject\\MonitoringSystem.EndpointAPI\\obj\\",
+        "outputPath": "D:\\GitRepository\\ForAllUsers\\API-AuthenticationImp\\API-AuthenticationImp\\ServicesProject\\MonitoringSystem.EndpointAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Zeinab\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -135,11 +135,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\API Arch\\API-AuthenticationImp\\ServicesProject\\AuthenticationService\\AuthenticationService.csproj": {
-                "projectPath": "E:\\API Arch\\API-AuthenticationImp\\ServicesProject\\AuthenticationService\\AuthenticationService.csproj"
+              "D:\\GitRepository\\ForAllUsers\\API-AuthenticationImp\\API-AuthenticationImp\\ServicesProject\\AuthenticationService\\AuthenticationService.csproj": {
+                "projectPath": "D:\\GitRepository\\ForAllUsers\\API-AuthenticationImp\\API-AuthenticationImp\\ServicesProject\\AuthenticationService\\AuthenticationService.csproj"
               },
-              "E:\\API Arch\\API-AuthenticationImp\\ServicesProject\\WeatherForecast\\WeatherForecast.csproj": {
-                "projectPath": "E:\\API Arch\\API-AuthenticationImp\\ServicesProject\\WeatherForecast\\WeatherForecast.csproj"
+              "D:\\GitRepository\\ForAllUsers\\API-AuthenticationImp\\API-AuthenticationImp\\ServicesProject\\WeatherForecast\\WeatherForecast.csproj": {
+                "projectPath": "D:\\GitRepository\\ForAllUsers\\API-AuthenticationImp\\API-AuthenticationImp\\ServicesProject\\WeatherForecast\\WeatherForecast.csproj"
               }
             }
           }
@@ -186,14 +186,14 @@
         }
       }
     },
-    "E:\\API Arch\\API-AuthenticationImp\\ServicesProject\\WeatherForecast\\WeatherForecast.csproj": {
+    "D:\\GitRepository\\ForAllUsers\\API-AuthenticationImp\\API-AuthenticationImp\\ServicesProject\\WeatherForecast\\WeatherForecast.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\API Arch\\API-AuthenticationImp\\ServicesProject\\WeatherForecast\\WeatherForecast.csproj",
+        "projectUniqueName": "D:\\GitRepository\\ForAllUsers\\API-AuthenticationImp\\API-AuthenticationImp\\ServicesProject\\WeatherForecast\\WeatherForecast.csproj",
         "projectName": "WeatherForecast",
-        "projectPath": "E:\\API Arch\\API-AuthenticationImp\\ServicesProject\\WeatherForecast\\WeatherForecast.csproj",
+        "projectPath": "D:\\GitRepository\\ForAllUsers\\API-AuthenticationImp\\API-AuthenticationImp\\ServicesProject\\WeatherForecast\\WeatherForecast.csproj",
         "packagesPath": "C:\\Users\\Zeinab\\.nuget\\packages\\",
-        "outputPath": "E:\\API Arch\\API-AuthenticationImp\\ServicesProject\\WeatherForecast\\obj\\",
+        "outputPath": "D:\\GitRepository\\ForAllUsers\\API-AuthenticationImp\\API-AuthenticationImp\\ServicesProject\\WeatherForecast\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Zeinab\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -210,8 +210,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\API Arch\\API-AuthenticationImp\\ServicesProject\\AuthenticationService\\AuthenticationService.csproj": {
-                "projectPath": "E:\\API Arch\\API-AuthenticationImp\\ServicesProject\\AuthenticationService\\AuthenticationService.csproj"
+              "D:\\GitRepository\\ForAllUsers\\API-AuthenticationImp\\API-AuthenticationImp\\ServicesProject\\AuthenticationService\\AuthenticationService.csproj": {
+                "projectPath": "D:\\GitRepository\\ForAllUsers\\API-AuthenticationImp\\API-AuthenticationImp\\ServicesProject\\AuthenticationService\\AuthenticationService.csproj"
               }
             }
           }

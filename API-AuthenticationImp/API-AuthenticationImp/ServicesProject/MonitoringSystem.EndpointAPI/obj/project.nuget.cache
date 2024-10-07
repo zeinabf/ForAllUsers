@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P2Lxxt4mGGmmgeLqK3KSlqFvqxaP9oLN6AJ2gBJ+/s+eAER3CWANNOUpSWVaRzdRcv38q9IpuHtkqHFSZXEQvA==",
+  "dgSpecHash": "sZyY4NmPjz5DZgywRHeff1p9SQ3jaU5+j8ADP7feuL6pFuIc82ao0+G7jlUKEh5I5kJEQeeGeWniKgeV86+TFA==",
   "success": true,
-  "projectFilePath": "E:\\API Arch\\API-AuthenticationImp\\ServicesProject\\MonitoringSystem.EndpointAPI\\MonitoringSystem.EndpointAPI.csproj",
+  "projectFilePath": "D:\\GitRepository\\ForAllUsers\\API-AuthenticationImp\\API-AuthenticationImp\\ServicesProject\\MonitoringSystem.EndpointAPI\\MonitoringSystem.EndpointAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Zeinab\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Zeinab\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

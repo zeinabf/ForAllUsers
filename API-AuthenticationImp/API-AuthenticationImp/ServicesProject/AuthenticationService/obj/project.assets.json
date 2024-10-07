@@ -4865,11 +4865,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\API Arch\\API-AuthenticationImp\\ServicesProject\\AuthenticationService\\AuthenticationService.csproj",
+      "projectUniqueName": "D:\\GitRepository\\ForAllUsers\\API-AuthenticationImp\\API-AuthenticationImp\\ServicesProject\\AuthenticationService\\AuthenticationService.csproj",
       "projectName": "AuthenticationService",
-      "projectPath": "E:\\API Arch\\API-AuthenticationImp\\ServicesProject\\AuthenticationService\\AuthenticationService.csproj",
+      "projectPath": "D:\\GitRepository\\ForAllUsers\\API-AuthenticationImp\\API-AuthenticationImp\\ServicesProject\\AuthenticationService\\AuthenticationService.csproj",
       "packagesPath": "C:\\Users\\Zeinab\\.nuget\\packages\\",
-      "outputPath": "E:\\API Arch\\API-AuthenticationImp\\ServicesProject\\AuthenticationService\\obj\\",
+      "outputPath": "D:\\GitRepository\\ForAllUsers\\API-AuthenticationImp\\API-AuthenticationImp\\ServicesProject\\AuthenticationService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Zeinab\\AppData\\Roaming\\NuGet\\NuGet.Config",
